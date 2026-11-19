@@ -1,0 +1,10 @@
+antenna_id,sector,receiver,status,revision
+AR-11,North,L-band,offline,1
+AR-12,North,X-band,active,1
+AR-14,South,K-band,active,2
+AR-15,South,L-band,offline,1
+AR-11,North,L-band,active,2
+AR-13,South,S-band,offline,3
+AR-15,South,L-band,active,1
+AR-16,West,C-band,active,0
+bad row

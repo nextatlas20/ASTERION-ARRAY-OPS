@@ -1,0 +1,12 @@
+{"window_id":"MW-101","antenna_id":"AR-11","start":"2097-03-18T08:25:00Z","end":"2097-03-18T08:50:00Z","state":"approved","revision":2}
+{"window_id":"MW-102","antenna_id":"AR-12","start":"2097-03-18T08:05:00Z","end":"2097-03-18T08:22:00Z","state":"approved","revision":1}
+{"window_id":"MW-103","antenna_id":"AR-14","start":"2097-03-18T08:40:00Z","end":"2097-03-18T09:15:00Z","state":"approved","revision":1}
+{"window_id":"MW-104","antenna_id":"AR-15","start":"2097-03-18T08:20:00Z","end":"2097-03-18T08:45:00Z","state":"approved","revision":1}
+{"window_id":"MW-106","antenna_id":"AR-12","start":"2097-03-18T08:00:00Z","end":"2097-03-18T08:20:00Z","state":"approved","revision":3}
+{"window_id":"MW-107","antenna_id":"AR-11","start":"2097-03-18T08:50:00Z","end":"2097-03-18T09:20:00Z","state":"approved","revision":1}
+{"window_id":"MW-108","antenna_id":"AR-13","start":"2097-03-18T09:20:00Z","end":"2097-03-18T09:40:00Z","state":"approved","revision":1}
+{"window_id":"MW-109","antenna_id":"AR-15","start":"2097-03-18T08:10:00Z","end":"2097-03-18T08:40:00Z","state":"approved","revision":2}
+{"window_id":"MW-106","antenna_id":"AR-12","start":"2097-03-18T07:55:00Z","end":"2097-03-18T08:30:00Z","state":"tentative","revision":2}
+{"window_id":"MW-110","antenna_id":"AR-14","start":"2097-03-19T08:00:00Z","end":"2097-03-19T08:30:00Z","state":"approved","revision":1}
+{"window_id":"MW-111","antenna_id":"AR-14","start":"2097-03-18T10:00:00Z","end":"2097-03-18T10:00:00Z","state":"approved","revision":1}
+not-json
